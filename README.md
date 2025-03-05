@@ -1,6 +1,5 @@
 <h1>Dog-Breed-Identification</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project is a Google Colab notebook that utilizes transfer learning to identify dog breeds from images. The model is trained on a Kaggle dataset containing various dog breeds and leverages a pre-trained deep learning model to achieve accurate classification. Users can upload a picture of a dog, and the notebook processes the image, returning the same picture with the predicted breed label overlaid. This approach simplifies dog breed recognition, making it accessible and efficient for anyone interested in canine classification.
